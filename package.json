@@ -1,0 +1,28 @@
+{
+  "name": "f1-bets",
+  "version": "1.0.0",
+  "description": "fantasy web app for f1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilcaralex97/f1-bets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilcaralex97/f1-bets/issues"
+  },
+  "homepage": "https://github.com/amilcaralex97/f1-bets#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.21",
+    "aws-cdk": "^2.43.1",
+    "aws-cdk-lib": "^2.43.1",
+    "constructs": "^10.1.112",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.3"
+  }
+}
